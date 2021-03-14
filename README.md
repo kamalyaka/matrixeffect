@@ -8,5 +8,5 @@
 ### Adjustable dead columns: ✅
 ### Free to use code: ✅
 ### Resizable console window: ❌
----
+
 by kamalyaka, kamalyaka Projects
