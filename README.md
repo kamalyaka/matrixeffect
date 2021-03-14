@@ -1,2 +1,12 @@
-# matrixeffect
-A Python script that creates a nice matrix effect!
+### MatrixEffect: Matrix Python Script!
+### A Python script that creates a nice matrix effect! 🧑‍💻
+---
+![Peek 2021-03-14 18-05](https://user-images.githubusercontent.com/60985540/111077188-e2ad7200-84ef-11eb-97a0-5eb1088a36a2.gif)
+---
+### Adjustable dictionary string: ✅
+### Adjustable speed and column count: ✅
+### Adjustable dead columns: ✅
+### Free to use code: ✅
+### Resizable console window: ❌
+---
+by kamalyaka, kamalyaka Projects
